@@ -1,4 +1,4 @@
-package com.jeejava.hibernate.second.level.ehcache.entity;
+package com.roytuts.hibernate.second.level.ehcache.entity;
 
 import java.io.Serializable;
 

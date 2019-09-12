@@ -1,4 +1,4 @@
-package com.jeejava.hibernate.second.level.ehcache;
+package com.roytuts.hibernate.second.level.ehcache;
 
 import java.util.logging.Level;
 
@@ -7,8 +7,8 @@ import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.stat.Statistics;
 
-import com.jeejava.hibernate.second.level.ehcache.entity.Cd;
-import com.jeejava.hibernate.second.level.ehcache.util.HibernateUtil;
+import com.roytuts.hibernate.second.level.ehcache.entity.Cd;
+import com.roytuts.hibernate.second.level.ehcache.util.HibernateUtil;
 
 public class EhCacheApp {
 

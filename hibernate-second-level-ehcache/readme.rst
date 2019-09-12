@@ -1,1 +1,1 @@
-You can read tutorial https://www.jeejava.com/second-level-ehcache-example-in-hibernate/
+You can read tutorial https://www.roytuts.com/second-level-ehcache-example-in-hibernate/

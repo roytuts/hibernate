@@ -1,10 +1,10 @@
-package com.jeejava.hibernate.test;
+package com.roytuts.hibernate.test;
 
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-import com.jeejava.hibernate.domain.model.Employee;
-import com.jeejava.hibernate.util.HibernateUtil;
+import com.roytuts.hibernate.domain.model.Employee;
+import com.roytuts.hibernate.util.HibernateUtil;
 
 public class EvictMethodTest {
 

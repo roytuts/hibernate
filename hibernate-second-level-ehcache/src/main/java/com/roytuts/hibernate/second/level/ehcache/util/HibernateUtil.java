@@ -1,4 +1,4 @@
-package com.jeejava.hibernate.second.level.ehcache.util;
+package com.roytuts.hibernate.second.level.ehcache.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;

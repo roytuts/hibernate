@@ -1,4 +1,4 @@
-package com.jeejava.hibernate.util;
+package com.roytuts.hibernate.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;

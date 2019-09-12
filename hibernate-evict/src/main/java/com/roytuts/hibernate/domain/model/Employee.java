@@ -1,4 +1,4 @@
-package com.jeejava.hibernate.domain.model;
+package com.roytuts.hibernate.domain.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

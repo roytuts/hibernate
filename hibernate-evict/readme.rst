@@ -1,1 +1,1 @@
-You can read tutorial https://www.jeejava.com/evict-method-in-hibernate/
+You can read tutorial https://www.roytuts.com/evict-method-in-hibernate/
