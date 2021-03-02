@@ -10,8 +10,8 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.hibernate.orm:hibernate-core:6.0.0.Alpha5'
-    implementation('mysql:mysql-connector-java:8.0.17')
+    implementation 'org.hibernate.orm:hibernate-core:6.0.0.Alpha5' to 6.0.0.Alpha6
+    implementation('mysql:mysql-connector-java:8.0.17') to 8.0.22
     
     //required for jdk 9 or above
 	runtimeOnly('javax.xml.bind:jaxb-api:2.4.0-b180830.0359')

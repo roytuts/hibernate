@@ -3,7 +3,7 @@ package com.roytuts.hibernate.evict.method.example;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-public class EvictMethodTest {
+public class EvictMethodApp {
 
 	public static void main(String[] args) {
 		Session session = null;
