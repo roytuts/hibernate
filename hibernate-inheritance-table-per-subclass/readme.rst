@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/hibernate-inheritance-strategy-table-per-subclass-hierarchy/
