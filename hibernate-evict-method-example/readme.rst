@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/evict-method-in-hibernate/
+Please follow the tutorial https://roytuts.com/evict-method-in-hibernate/
